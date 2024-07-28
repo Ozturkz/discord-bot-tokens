@@ -1,14 +1,14 @@
 {
     "PLANT": {
-        "token": "XXX",
-        "timestamp": "XXX"
+        "token": "abc123",
+        "timestamp": "2024-07-27T15:00:00"
     },
     "ROTATION": {
-        "token": "XXX",
-        "timestamp": "XXX"
+        "token": "def456",
+        "timestamp": "2024-07-27T15:00:00"
     },
     "HARVEST": {
-        "token": "XXX",
-        "timestamp": "XXX"
+        "token": "ghi789",
+        "timestamp": "2024-07-27T15:00:00"
     }
 }
