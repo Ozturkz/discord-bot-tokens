@@ -1,1 +1,14 @@
-{"PLANT": {"token": "twyrh4", "timestamp": "2024-07-28T15:00:06.858599"}, "ROTATION": {"token": "MeKj46", "timestamp": "2024-07-28T15:00:07.866154"}}
+{
+    "PLANT": {
+        "token": "",
+        "timestamp": ""
+    },
+    "ROTATION": {
+        "token": "",
+        "timestamp": ""
+    },
+    "HARVEST": {
+        "token": "",
+        "timestamp": ""
+    }
+}
